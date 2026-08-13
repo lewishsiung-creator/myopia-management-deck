@@ -14,6 +14,11 @@ BrightenOptix internal figures, and notes on the Zeiss / Brighten Optix acquisit
 - GitHub Pages — https://lewishsiung-creator.github.io/myopia-management-deck/
 - Cloudflare Pages (project `jh-deck`) — https://jh-deck.pages.dev
 
+`practice.html` is Jolie's rehearsal tool, at `/practice.html` on both hosts. It pairs
+each slide with her spoken script at three levels (full text, key phrases, slide only)
+and times her against a 115 wpm target. Deliberately a separate file from the deck —
+her script must never be one keystroke away while she is presenting.
+
 There is no access control and no noindex. The deck is open to anyone with the URL
 and to search engines.
 
